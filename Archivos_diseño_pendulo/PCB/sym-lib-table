@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "simbolos_pendulo")(type "KiCad")(uri "${KIPRJMOD}/simbolos_pendulo.kicad_sym")(options "")(descr ""))
+)

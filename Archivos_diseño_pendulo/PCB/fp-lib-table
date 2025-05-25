@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "huellas_pendulo")(type "KiCad")(uri "${KIPRJMOD}/huellas_pendulo.pretty")(options "")(descr ""))
+)

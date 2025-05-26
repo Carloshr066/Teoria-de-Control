@@ -50,8 +50,8 @@ Repositorio de github para el proyecto del pendulo invertido de la asignatura de
 El chasis se ha diseñado con la intención de tener un centro de gravedad alineado con el eje de los motores para maximizar la establidad del robot. El chasis en si es muy sencillo, una superficie plana con 4 agujeros para atornillar la placa al chasis y 2 ranuras en los laterales para poner los motores.
 
 ## Montaje:
-El montaje de robot del robot ha sido principalmente soldar los componentes en la PCB, una vez esta esta lista se han usado unos separadores para que la placa que separada una cierta distancia del chasis, espacio en el que se ha puesto la batería para tener un perfil más bajo. Con la placa y la batería puestas solo falta colocar los motores en cada estremo del chasis y ponerles las ruedas.
+El montaje de robot del robot ha sido principalmente soldar los componentes en la PCB, una vez esta esta lista se han usado unos separadores para que la placa quede separada una cierta distancia del chasis, espacio en el que se ha puesto la batería para tener un perfil más bajo. Con la placa y la batería puestas solo falta colocar los motores en cada estremo del chasis y ponerles las ruedas.
 
 ## Ajuste del PID:
-La constante Kp del PID se ha ido subiendo en pequeños incrementos hasta que se el robot ha sido capaz de levantarse por su cuenta. Debido a la estabilidad de base del robot poco más ha sido necesario. La constante Ki se ha incrementado hasta que el robot erá capaz de eliminar el pequeño error residual al encontrarse en una casi perpendicular a la superficie. La constante Kd se incremento muy ligeramente para aumentar la velocidad de respuesta del robot.
+La constante Kp del PID se ha ido subiendo en pequeños incrementos hasta que se el robot ha sido capaz de levantarse por su cuenta. Debido a la estabilidad de base del robot poco más ha sido necesario. La constante Ki se ha incrementado hasta que el robot erá capaz de eliminar el pequeño error residual al encontrarse casi perpendicular a la superficie. La constante Kd se incremento muy ligeramente para aumentar la velocidad de respuesta del robot.
       

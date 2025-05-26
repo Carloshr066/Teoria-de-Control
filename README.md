@@ -47,7 +47,7 @@ Repositorio de github para el proyecto del pendulo invertido de la asignatura de
   - Batería:
     Se ha usado una batería recargable de 6V para todo el robot.
 ## Chasis:
-El chasis se ha diseñado con la intención de tener un centro de gravedad alineado con el eje de los motores para maximizar la establidad del robot. El chasis en si es muy sencillo una superficie plana con 4 agujeros para atornillar la placa al chasis y 2 ranuras en los laterales para poner los motores.
+El chasis se ha diseñado con la intención de tener un centro de gravedad alineado con el eje de los motores para maximizar la establidad del robot. El chasis en si es muy sencillo, una superficie plana con 4 agujeros para atornillar la placa al chasis y 2 ranuras en los laterales para poner los motores.
 
 ## Montaje:
 El montaje de robot del robot ha sido principalmente soldar los componentes en la PCB, una vez esta esta lista se han usado unos separadores para que la placa que separada una cierta distancia del chasis, espacio en el que se ha puesto la batería para tener un perfil más bajo. Con la placa y la batería puestas solo falta colocar los motores en cada estremo del chasis y ponerles las ruedas.

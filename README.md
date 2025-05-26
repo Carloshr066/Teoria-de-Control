@@ -39,7 +39,7 @@ Repositorio de github para el proyecto del pendulo invertido de la asignatura de
     Se han usado tres pares de conectores XT30 para conectar tanto la batería como los motores la placa.
     
   - Motores DC:
-    Para mover el robot se han usado dos motores DC con un tren de engranajes reductor par incrementar el torque.
+    Para mover el robot se han usado dos motores DC con un tren de engranajes reductor para incrementar el torque.
     
   - Ruedas:
     Se han usado un par de ruedas compatibles con el eje de los motores.
